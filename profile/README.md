@@ -1,7 +1,6 @@
 # ARAS-DEL-SUR
 
-![logo 1](https://github.com/DHM-DISTRIBUIDORA/.github/assets/7370358/5a64bff1-5c8e-4d50-8ad8-de38b5d9897d)
-
+************IAMGEN************
 
 Bienvenido a la Wiki oficial de ARAS-DEL-SUR, la guía definitiva y fuente de conocimientos para nuestra avanzada y versátil plataforma de domotica agraria. ARAS-DEL-SUR se dedica a revolucionar la industria agraria al proporcionar soluciones digitales innovadoras y efectivas para optimizar las operaciones y las demandas del cliente del siglo XXI.
 
